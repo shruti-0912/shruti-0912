@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development,Data analysis and javascript.
 - 🌱 I’m currently learning react and ui/ux.
 - 💞️ I’m looking to collaborate on Front End projects.
-- 📫 How to reach me shruti09dec2003@gmail.com
+- 📫 How to reach me shrutisingh.3209@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Good at board puzzels.
 
